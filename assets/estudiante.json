@@ -1,0 +1,26 @@
+[
+    {
+      "matricula":"18760462",
+      "nombre":"Orlando Romero Galván",
+      "carrera":"Ing. Sistemas Computacionales",
+      "semestre": "8vo",
+      "telefono": "646-235-48-53",
+      "correo":"al18760462@ite.edu.mx"
+    },
+    {
+      "matricula":"18760463",
+      "nombre":"Juan Ramírez Pérez",
+      "carrera":"Ing. Industrial",
+      "semestre": "6to",
+      "telefono": "646-231-55-74",
+      "correo":"al18760463@ite.edu.mx"
+    },
+    {
+      "matricula":"19775315",
+      "nombre":"Edmundo Meza Portillo",
+      "carrera":"Ing. Gestión Empresarial",
+      "semestre": "4to",
+      "telefono": "646-187-45-56",
+      "correo":"al19775315@ite.edu.mx"
+    }
+  ]
